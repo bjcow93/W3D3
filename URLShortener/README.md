@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+Dear Diary,
+
+today i really screwed up. i went to app academy. will not be returning.
